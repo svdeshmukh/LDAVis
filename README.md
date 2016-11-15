@@ -1,17 +1,19 @@
 # LDAVis
 Business Analytics LDAvis 
 
+*Siddhant Deshmukh*
+
+*Business Analytics – Weekday Course*
+
+*Assignment 8 – Text as Data*
+
                                                - VISUALISATION -  
 
 (https://htmlpreview.github.io/?https://github.com/svdeshmukh/LDAVis/blob/master/ToolReviews/index.html)
 
 -----------------------------------                                                  
 
-*Siddhant Deshmukh*
 
-*Business Analytics – Weekday Course*
-
-*Assignment 8 – Text as Data*
 
                                                     - CASE - 
 
