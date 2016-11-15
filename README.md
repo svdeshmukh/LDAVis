@@ -6,9 +6,9 @@
 
 *Assignment 8 – Text as Data*
 
-                                               - VISUALISATION -  
-
-(https://htmlpreview.github.io/?https://github.com/svdeshmukh/LDAVis/blob/master/ToolReviews/index.html)
+                                               - VISUALISATION -
+                                               
+https://svdeshmukh.github.io/LDAVis/
 
 -----------------------------------                                                  
 
