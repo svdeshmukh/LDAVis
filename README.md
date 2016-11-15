@@ -16,7 +16,8 @@
 
                                                     - CASE - 
 
-In this document, we fit an LDA Topic Model to the Amazon Home Improvement Tools Dataset found here. To fit the model, we used the R package lda and to visualise the output we used LDAvis.
+In this document, we fit an LDA Topic Model to the Amazon Home Improvement Tools Dataset found [here](http://jmcauley.ucsd.edu/data/amazon/). 
+To fit the model, we used the R package lda and to visualise the output we used LDAvis.
 Below I have pasted a few screenshots of the script used to create this visualisation – 
 
 -	Loading the dataset and cleaning the corpus
