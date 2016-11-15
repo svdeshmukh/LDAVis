@@ -30,7 +30,7 @@ After fitting the model we are ready to create a JSON file and run the visualisa
 
 ![image](https://cloud.githubusercontent.com/assets/22182362/20296049/aaa9115e-aad6-11e6-920e-b2dd346f4eaa.png)
 
-I have finally created a visualisation of the top 15 topics cross-referenced with the top 30 most salient terms. By hovering over different topics and different words, we can see that certain terms appear frequently in certain topics.
+I have created a visualisation of the top 15 topics cross-referenced with the top 30 most salient terms. By hovering over different topics and different words, we can see that certain terms appear frequently in certain topics.
 
 For example, looking at the top 30 most salient terms we can see that the word ‘light’ tops the list. By hovering over the word light we further see that this word appears in 3 topics, namely topic 2,10 and 12 as the most common word in each of these 3 topics. By further perusing the words appearing in these topics we see that even though the word ‘light’ appears frequently, the context it is used in varies from topic to topic. 
 
