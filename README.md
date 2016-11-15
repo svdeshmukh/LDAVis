@@ -13,7 +13,7 @@ Business Analytics LDAvis
 
 *Assignment 8 – Text as Data*
 
-                                                  - CASE - 
+                                                    - CASE - 
 
 In this document, we fit an LDA Topic Model to the Amazon Home Improvement Tools Dataset found here. To fit the model, we used the R package lda and to visualise the output we used LDAvis.
 Below I have pasted a few screenshots of the script used to create this visualisation – 
@@ -43,6 +43,8 @@ As another example let us look at the 5th most used word that is 'blade'. Hoveri
 - Topic 8 suggests that blade is used in the context of sanding or sharpening tools such as wood grinders etc.
 - Topic 7 suggests that the word blade is used in the context of a multitool possessing pliers/blades/scissors etc.
 - In Topic 1 the word blade is actually at the bottom of the top 30 used words. Here it is probably used in the context of clamping/adjusting equipment manufacted by companies such as Bosch, DeWalt etc.
+
+In conclusion, by using the LDAvis package to create a visualisation of our model, we are able to assess the frequency and context of words and topics across an extremely large dataset. By setting topic parameters and relevance metrics, we are presented with a list of top 30 words that we may then cross reference across the most popular topics. Not only can we identify the overarching theme of various topics, but we can also identify the context in which certain terms appear within these topics.
 
 ------------------
 
