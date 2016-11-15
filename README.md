@@ -1,5 +1,4 @@
 # LDAVis
-Business Analytics LDAvis 
 
 *Siddhant Deshmukh*
 
