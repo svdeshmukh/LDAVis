@@ -25,7 +25,7 @@ Below I have pasted a few screenshots of the script used to create this visualis
 
 -	Fitting the model
 
-Next, we set up a topic model with 20 topics, relatively diffuse priors for the topic-term distributions (ηη = 0.02) and document-topic distributions (αα = 0.02), and we set the collapsed Gibbs sampler to run for 5,000 iterations (slightly conservative to ensure convergence). This block of code takes about 1.5 hours to run on a laptop using a quad core 2.2Ghz processor (and 8GB RAM).
+Next, we set up a topic model with 15 topics, relatively diffuse priors for the topic-term distributions (ηη = 0.02) and document-topic distributions (αα = 0.02), and we set the collapsed Gibbs sampler to run for 5,000 iterations (slightly conservative to ensure convergence). This block of code takes about 1.5 hours to run on a laptop using a quad core 2.2Ghz processor (and 8GB RAM).
 
 ![image](https://cloud.githubusercontent.com/assets/22182362/20296044/a11d3cfa-aad6-11e6-8cf2-49d87bc9fc86.png)
 
