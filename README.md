@@ -8,7 +8,7 @@
 
                                                - VISUALISATION -  
 
-(https://htmlpreview.github.io/?https://github.com/svdeshmukh/LDAVis/blob/master/ToolReviews/index.html)
+(https://svdeshmukh.github.io/LDAVis/)
 
 -----------------------------------                                                  
 
